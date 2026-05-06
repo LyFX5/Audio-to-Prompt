@@ -1,5 +1,30 @@
 # Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
+*.pyc
+.venv/
+venv/
+
+# ML Models & Large Files
+ckpts/
+*.pt
+*.bin
+*.onnx
+*.safetensors
+
+# Logs & Audio
+logs/
+*.wav
+*.mp3
+*.flac
+!data/.gitkeep
+!logs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
 *.py[codz]
 *$py.class
 

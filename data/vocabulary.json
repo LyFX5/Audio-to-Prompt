@@ -1,0 +1,23 @@
+{
+  "genres": [
+    "lo-fi hip hop", "ambient techno", "cinematic orchestral", "synthwave",
+    "drum and bass", "neo-soul", "indie folk", "minimal house", "trap",
+    "post-rock", "electroacoustic", "chillhop", "dub techno", "future bass"
+  ],
+  "instruments": [
+    "analog synth", "felt piano", "808 drum machine", "acoustic guitar",
+    "modular bass", "string ensemble", "saxophone", "granular pads",
+    "electric piano", "taiko drums", "choir", "tape loops", "kalimba", "brass section"
+  ],
+  "techniques": [
+    "sidechain compression", "reverb-heavy", "tape saturation", "bitcrushing",
+    "wide stereo", "parallel compression", "low-pass filter sweep",
+    "granular synthesis", "field recording", "vocal chops",
+    "arpeggiated synths", "stutter edit", "delay throws", "sub bass enhancement"
+  ],
+  "moods": [
+    "chill", "high-energy", "melancholic", "euphoric", "tense", "dreamy",
+    "groovy", "cinematic", "minimal", "driving", "ethereal", "aggressive",
+    "nostalgic", "uplifting"
+  ]
+}
